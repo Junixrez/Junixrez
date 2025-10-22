@@ -1,10 +1,10 @@
-# Hi there, I am Elsayed Ezzat Junixrez 👋
+# Hi there, I am Elsayed Ezzat  👋
 
 I am a Software Developer specializing in the **MEARN** stack. I love building robust backend APIs, responsive frontends, and exploring new technologies.
 
 ---
 
-✨ **Junixrez's GitHub Stats**  
+✨ **Elsayed's GitHub Stats**  
 ![Junixrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junixrez&show_icons=true&theme=radical)
 
 ---
@@ -39,3 +39,7 @@ I am a Software Developer specializing in the **MEARN** stack. I love building r
 ---
 
 Thank you for visiting my profile! Feel free to connect or reach out
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junixrez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elsayedezzat)
+
